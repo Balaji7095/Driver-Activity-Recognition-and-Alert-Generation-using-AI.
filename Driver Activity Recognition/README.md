@@ -1,0 +1,3 @@
+# Driver Activity Recognition and Alert System using AI
+This project detects distracted driving behavior using deep learning and OpenCV and generates real-time alerts.
+...
